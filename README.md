@@ -2,11 +2,7 @@
 
 [![Badge KoPaTiK](https://img.shields.io/badge/KoPaTiK-Agency-blue)](https://fgainza.fr)
 
-*** 
-
 ## exe application to generate a random password
-
-***
 
 ### Features
 
