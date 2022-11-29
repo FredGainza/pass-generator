@@ -15,7 +15,7 @@
 
 ### Installing
 
-You can use directly the file 'pass-generator.exe' present in the folder '/app/' or generate by yourselves the executable.
+You can use directly the file 'pass-generator.exe' available in the folder '/app/' or generate by yourselves the executable.
 
 To build by yourself :
 
