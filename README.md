@@ -4,7 +4,7 @@
 
 ## exe application to generate a random password
 
-![pass-generator](app/pass-generator.png)  
+![pass-generator](app/demo-pass-generator.gif)  
 
 ### Features
 
