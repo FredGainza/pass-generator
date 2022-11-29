@@ -4,6 +4,8 @@
 
 ## exe application to generate a random password
 
+![pass-generator](app/pass-generator.png)  
+
 ### Features
 
 - python code (pyinstaller to create the .exe)
