@@ -22,7 +22,7 @@ To build by yourself :
 - After cloning the repository:
 
 ```bash
-    ### Navigate to the directory
+    ### Navigate to the repository
     $ cd /navigate/repository/pass-generator
 	
     ### Create a new environment
